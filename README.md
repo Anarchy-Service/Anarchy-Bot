@@ -33,4 +33,5 @@ Easy Use Anarchy Bot on Telegram Groups
 &nbsp;
 <p>
 <b>Telegram :</b> AnarchyService_Bot
+      [WebSite](https://DyarWeb.com)
 <p>
