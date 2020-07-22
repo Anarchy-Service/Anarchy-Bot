@@ -1,8 +1,10 @@
 <h1 align="center">
   <img src="http://s13.picofile.com/file/8403665634/2.jpg">
   <br>
+    <br>
    Anarchy Group Manager Bot
   <br>
+    <br>
 </h1>
 # Anarchy Bot V2
 
