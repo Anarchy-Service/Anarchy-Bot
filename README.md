@@ -2,8 +2,8 @@
 <img src="http://s13.picofile.com/file/8403665634/2.jpg">
 <center/>
 
-# Anarchy Service Robot V2
-Easy Use Anarchy Service Bot on Telegram Groups
+# Anarchy Bot V2
+Easy Use Anarchy Bot on Telegram Groups
 <p>
   &nbsp;
 
