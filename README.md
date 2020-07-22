@@ -17,7 +17,7 @@ Easy Use Anarchy Service Bot on Telegram Groups
     <p>
 &nbsp;
 &nbsp;
-      b>How To Use Anarchy Bot Source </b>
+      <b>How To Use Anarchy Bot Source </b>
 
 1 - Just Add AnarchyService_Bot On Your Group :)
 <p>
