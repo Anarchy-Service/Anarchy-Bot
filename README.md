@@ -1,5 +1,4 @@
 <h1 align="center">
-  <br>
   <img src="http://s13.picofile.com/file/8403665634/2.jpg">
   <br>
    Anarchy Group Manager Bot
