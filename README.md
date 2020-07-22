@@ -2,7 +2,7 @@
 <img src="http://s13.picofile.com/file/8403665634/2.jpg">
 <center/>
 
-# Anarchy Bot V2
+# ربات آنارشی نسخه 2
 Easy Use Anarchy Service Bot on Groups
 <p>
   &nbsp;
