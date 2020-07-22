@@ -2,16 +2,16 @@
 <img src="http://s13.picofile.com/file/8403665634/2.jpg">
 <center/>
 
-# ربات آنارشی نسخه 2
-Easy Use Anarchy Service Bot on Groups
+# Anarchy Service Robot V2
+Easy Use Anarchy Service Bot on Telegram Groups
 <p>
   &nbsp;
 
 <b>How To Use Anarchy Bot on Groups </b>
 
-1 - Just Add t.me/AnarchyService_Bot On Your Group :)
+1 - Just Add AnarchyService_Bot On Your Group :)
 <p>
-2 - cd LinTor
+2 - send 
 <p>
 3 - chmod +x ./Anarchy-Bot
 <p>
