@@ -7,9 +7,9 @@ Easy Install Anarchy Service
 <p>
   &nbsp;
 
-<b>How To Use Anarchy Bot </b>
+<b>How To Use Anarchy Bot on Groups </b>
 
-1 - git clone https://github.com/Anarchy-Service/Anarchy-Bot
+1 - Just Add t.me/AnarchyService_Bot On Your Group :)
 <p>
 2 - cd LinTor
 <p>
