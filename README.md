@@ -32,5 +32,5 @@ Easy Use Anarchy Bot on Telegram Groups
 &nbsp;
 &nbsp;
 <p>
-<b><img src="http://s13.picofile.com/file/8403667000/3.jpg"> Telegram :</b> AnarchyService_Bot
+<b><img src="http://s13.picofile.com/file/8403668418/3.jpg"> Telegram :</b> AnarchyService_Bot
 <p>
