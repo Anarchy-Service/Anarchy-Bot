@@ -3,12 +3,12 @@
   <br>
     <br>
   &nbsp;
-   Anarchy Group Manager Bot
+   
   &nbsp;
   <br>
     <br>
 </h1>
-# Anarchy Bot V2
+<h1> Anarchy Group Manager Bot V2 </h1>
 
 Easy Use Anarchy Bot on Telegram Groups
 <p>
