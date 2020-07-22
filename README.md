@@ -11,11 +11,17 @@ Easy Use Anarchy Service Bot on Telegram Groups
 
 1 - Just Add AnarchyService_Bot On Your Group :)
 <p>
-2 - send 
+
+&nbsp;
+  <p>
+    <p>
+&nbsp;
+&nbsp;
+      b>How To Use Anarchy Bot Source </b>
+
+1 - Just Add AnarchyService_Bot On Your Group :)
 <p>
-3 - chmod +x ./Anarchy-Bot
-<p>
-4 - ./Anarchy-Bot
+
 &nbsp;
   <p>
     <p>
