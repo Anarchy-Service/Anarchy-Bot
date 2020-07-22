@@ -3,7 +3,7 @@
 <center/>
 
 # Anarchy Bot V2
-Easy Install Anarchy Service 
+Easy Use Anarchy Service Bot on Groups
 <p>
   &nbsp;
 
