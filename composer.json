@@ -1,0 +1,31 @@
+{
+  "name": "anarchyservice/anarchy-bot",
+  "description": "PHP bot Telegram Groups manager",
+  "type": "project",
+  "license": "AGPL-3.0-or-later",
+  "homepage": "https://AnarchyService.xyz",
+  "keywords": ["telegram", "bot", "api", "oop", "PHP", "full", "project", "php7", "manager"],
+  "authors": [
+    {
+      "name": "Alireza Sawari",
+      "email": "DyarWeb@Yahoo.Com",
+      "homepage": "https://DyarWeb.Com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4.0",
+    "anarchyservice/anarchy-lib":"dev-master"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "autoload": {
+    "psr-4": {
+      "AnarchyService\\": "Classes/"
+    }
+  },
+  "scripts": {
+    "post-root-package-install": [
+        "@php -r \"file_exists('.env.php') || copy('.env.php.example', '.env.php');\""
+    ]
+  }
+}
